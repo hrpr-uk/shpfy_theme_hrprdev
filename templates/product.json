@@ -64,9 +64,9 @@
           "type": "collapsible_tab",
           "repeater": "{{ product.metafields.custom.ingredients.value }}",
           "settings": {
-            "heading": "Ingredients",
+            "heading": "{{ block.repeater.name.value }}",
             "icon": "check_mark",
-            "content": "{{ block.repeater.short_description | metafield_tag }}",
+            "content": "<p>{{ block.repeater.short_description | metafield_tag }}<\/p>",
             "page": ""
           }
         },
