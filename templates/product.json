@@ -62,11 +62,10 @@
         },
         "collapsible_tab_nN87BN": {
           "type": "collapsible_tab",
-          "repeater": "{{ product.metafields.custom.ingredients.value }}",
           "settings": {
             "heading": "Ingredients",
             "icon": "check_mark",
-            "content": "{{ block.repeater.short_description | metafield_tag }}",
+            "content": "<p>{{ product.metafields.bakery.ingredients | metafield_tag }}<\/p>",
             "page": ""
           }
         },
