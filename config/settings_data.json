@@ -4,7 +4,7 @@
     "Default": {
       "logo_width": 90,
       "color_schemes": {
-        "Cantabria": {
+        "cantabria": {
           "settings": {
             "background": "#FFFFFF",
             "background_gradient": "",
@@ -48,7 +48,7 @@
       "card_style": "standard",
       "card_image_padding": 0,
       "card_text_alignment": "left",
-      "card_color_scheme": "scheme-2",
+      "card_color_scheme": "cantabria",
       "card_border_thickness": 0,
       "card_border_opacity": 10,
       "card_corner_radius": 0,
@@ -59,7 +59,7 @@
       "collection_card_style": "standard",
       "collection_card_image_padding": 0,
       "collection_card_text_alignment": "left",
-      "collection_card_color_scheme": "scheme-2",
+      "collection_card_color_scheme": "cantabria",
       "collection_card_border_thickness": 0,
       "collection_card_border_opacity": 10,
       "collection_card_corner_radius": 0,
@@ -70,7 +70,7 @@
       "blog_card_style": "standard",
       "blog_card_image_padding": 0,
       "blog_card_text_alignment": "left",
-      "blog_card_color_scheme": "scheme-2",
+      "blog_card_color_scheme": "cantabria",
       "blog_card_border_thickness": 0,
       "blog_card_border_opacity": 10,
       "blog_card_corner_radius": 0,
@@ -107,8 +107,8 @@
       "drawer_shadow_blur": 5,
       "badge_position": "bottom left",
       "badge_corner_radius": 40,
-      "sale_badge_color_scheme": "scheme-5",
-      "sold_out_badge_color_scheme": "scheme-3",
+      "sale_badge_color_scheme": "cantabria",
+      "sold_out_badge_color_scheme": "cantabria",
       "social_twitter_link": "",
       "social_facebook_link": "",
       "social_pinterest_link": "",
@@ -130,13 +130,13 @@
         "main-password-header": {
           "type": "main-password-header",
           "settings": {
-            "color_scheme": "scheme-1"
+            "color_scheme": "cantabria"
           }
         },
         "main-password-footer": {
           "type": "main-password-footer",
           "settings": {
-            "color_scheme": "scheme-1"
+            "color_scheme": "cantabria"
           }
         }
       }
