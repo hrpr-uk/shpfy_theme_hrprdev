@@ -39,6 +39,24 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_FXWpEw": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "",
+            "show_nav_icons": false,
+            "push_1_heading": "Example heading",
+            "push_1_subheading": "Example sub-heading",
+            "push_1_url": "",
+            "push_2_heading": "Example heading",
+            "push_2_subheading": "Example sub-heading",
+            "push_2_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_FXWpEw"
+      ],
       "settings": {
         "logo_position": "middle-left",
         "menu": "main-menu",
