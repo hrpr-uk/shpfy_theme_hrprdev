@@ -128,6 +128,14 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "11735689235857492391": {
+        "type": "shopify:\/\/apps\/algolia-search-and-discovery\/blocks\/autocomplete\/57bb7f86-d5fe-4d43-96ca-3953324494cf",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -142,7 +150,7 @@
       },
       "scheme-2": {
         "settings": {
-          "background": "#FF5733",
+          "background": "#ff5733",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#121212",
