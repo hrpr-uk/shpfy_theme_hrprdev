@@ -74,22 +74,16 @@
             "push_2_subheading": "Example sub-heading",
             "push_2_url": ""
           }
-        },
-        "algolia_search_and_discovery_instantsearch_aQfjHf": {
-          "type": "shopify:\/\/apps\/algolia-search-and-discovery\/blocks\/instantsearch\/57bb7f86-d5fe-4d43-96ca-3953324494cf",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "mega_menu_iJyhyB",
-        "mega_menu_VFdRdb",
-        "algolia_search_and_discovery_instantsearch_aQfjHf"
+        "mega_menu_VFdRdb"
       ],
       "settings": {
         "logo_position": "middle-left",
         "menu": "",
-        "menu_type_desktop": "mega",
+        "menu_type_desktop": "drawer",
         "sticky_header_type": "always",
         "show_line_separator": false,
         "color_scheme": "scheme-2",

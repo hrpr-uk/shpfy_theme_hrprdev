@@ -225,6 +225,7 @@
       "type": "instant-TqVXVpdV4y73gj4y",
       "settings": {
         "product_lXyqAjNJg4eFLIOU": "autumn-dawn",
+        "image_xF2RgmjoJy37haQX": "{{ shop.brand.cover_image }}",
         "text_n0LrgveBhP2rTB8d": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean.<\/p>",
         "text_I14ecMmYehPgxbCG": "<p>£30<\/p>",
         "text_Oag81ESenePF8afF": "<p>£25.50<\/p>",
@@ -236,6 +237,7 @@
         "text_a8iwDIauQJL8AJpJ": "<p>Colour:<\/p>",
         "text_pTA34OARzqwXNfqo": "<p>Beige<\/p>",
         "text_e53pvr40qJkVZ2uA": "<p>Bronze<\/p>",
+        "image_nuDkn9KwLQAjO9rE": "shopify:\/\/shop_images\/sliced-pumpkin-pie.jpg",
         "text_2IypwpKgMtCPuXgC": "<p>Brown<\/p>",
         "text_BKAozDZNd8dDO8Hg": "<p>Add to Bag<\/p>",
         "text_JeG3rK7gJ8EX3fPG": "<p>View product<\/p>",
