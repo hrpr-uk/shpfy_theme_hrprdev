@@ -74,11 +74,17 @@
             "push_2_subheading": "Example sub-heading",
             "push_2_url": ""
           }
+        },
+        "algolia_search_and_discovery_instantsearch_aQfjHf": {
+          "type": "shopify:\/\/apps\/algolia-search-and-discovery\/blocks\/instantsearch\/57bb7f86-d5fe-4d43-96ca-3953324494cf",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "mega_menu_iJyhyB",
-        "mega_menu_VFdRdb"
+        "mega_menu_VFdRdb",
+        "algolia_search_and_discovery_instantsearch_aQfjHf"
       ],
       "settings": {
         "logo_position": "middle-left",
