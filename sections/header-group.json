@@ -49,14 +49,26 @@
     "header": {
       "type": "header",
       "blocks": {
-        "mega_menu_R4wJQ7": {
+        "mega_menu_iJyhyB": {
           "type": "mega_menu",
           "settings": {
-            "navigation_mega_menu": "test",
+            "navigation_mega_menu": "Test",
             "show_nav_icons": true,
-            "push_1_image": "shopify:\/\/shop_images\/616XCofkxjL.jpg",
-            "push_1_heading": "test 2",
-            "push_1_subheading": "test 3",
+            "push_1_heading": "Example heading",
+            "push_1_subheading": "Example sub-heading",
+            "push_1_url": "shopify:\/\/products\/autumn-dawn",
+            "push_2_heading": "Example heading",
+            "push_2_subheading": "Example sub-heading",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_VFdRdb": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "",
+            "show_nav_icons": false,
+            "push_1_heading": "Example heading",
+            "push_1_subheading": "Example sub-heading",
             "push_1_url": "",
             "push_2_heading": "Example heading",
             "push_2_subheading": "Example sub-heading",
@@ -65,7 +77,8 @@
         }
       },
       "block_order": [
-        "mega_menu_R4wJQ7"
+        "mega_menu_iJyhyB",
+        "mega_menu_VFdRdb"
       ],
       "settings": {
         "logo_position": "middle-left",
