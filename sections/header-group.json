@@ -53,7 +53,8 @@
           "type": "mega_menu",
           "settings": {
             "navigation_mega_menu": "test",
-            "show_nav_icons": false,
+            "show_nav_icons": true,
+            "push_1_image": "shopify:\/\/shop_images\/616XCofkxjL.jpg",
             "push_1_heading": "Example heading",
             "push_1_subheading": "Example sub-heading",
             "push_1_url": "",
