@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -211,6 +220,28 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "instant_tq_vx_vpd_v4y73gj4y_XgNEin": {
+      "type": "instant-TqVXVpdV4y73gj4y",
+      "settings": {
+        "product_lXyqAjNJg4eFLIOU": "autumn-dawn",
+        "text_n0LrgveBhP2rTB8d": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean.<\/p>",
+        "text_I14ecMmYehPgxbCG": "<p>£30<\/p>",
+        "text_Oag81ESenePF8afF": "<p>£25.50<\/p>",
+        "text_fjRl0jKGWToR29tm": "<p>Save<\/p>",
+        "text_B3Q6igAC5mYffJsl": "<p>Size:<\/p>",
+        "text_cMKX9v7gOdbbTZxS": "<p>50ml<\/p>",
+        "text_w72eioPzmBbpDOwb": "<p>100ml<\/p>",
+        "text_s1wEK9XM4fXiNuuC": "<p>250ml<\/p>",
+        "text_a8iwDIauQJL8AJpJ": "<p>Colour:<\/p>",
+        "text_pTA34OARzqwXNfqo": "<p>Beige<\/p>",
+        "text_e53pvr40qJkVZ2uA": "<p>Bronze<\/p>",
+        "text_2IypwpKgMtCPuXgC": "<p>Brown<\/p>",
+        "text_BKAozDZNd8dDO8Hg": "<p>Add to Bag<\/p>",
+        "text_JeG3rK7gJ8EX3fPG": "<p>View product<\/p>",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -219,6 +250,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "instant_tq_vx_vpd_v4y73gj4y_XgNEin"
   ]
 }
