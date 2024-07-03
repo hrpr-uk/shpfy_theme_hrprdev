@@ -38,9 +38,10 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "repeater": "{{ product.metafields.shopify[\"color-pattern\"].value }}",
           "settings": {
             "picker_type": "button",
-            "swatch_shape": "circle"
+            "swatch_shape": "square"
           }
         },
         "quantity_selector": {
@@ -66,16 +67,6 @@
             "heading": "Materials",
             "icon": "leather",
             "content": "",
-            "page": ""
-          }
-        },
-        "collapsible_tab_nN87BN": {
-          "type": "collapsible_tab",
-          "repeater": "{{ product.metafields.custom.ingredients.value }}",
-          "settings": {
-            "heading": "{{ block.repeater.name.value }}",
-            "icon": "check_mark",
-            "content": "<p>{{ block.repeater.short_description | metafield_tag }}<\/p>",
             "page": ""
           }
         },
@@ -123,7 +114,6 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible_tab_nN87BN",
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
