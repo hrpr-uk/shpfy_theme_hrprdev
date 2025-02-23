@@ -239,6 +239,27 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1740347869d5137081": {
+      "type": "apps",
+      "blocks": {
+        "simple_store_locator_location_map_rzzcwm": {
+          "type": "shopify://apps/simple-store-locator/blocks/location_map/0a6c4d43-fb8f-4920-8bca-3e1372fc7735",
+          "settings": {
+            "map_height": 400,
+            "zoom_level": 12,
+            "show_search": true,
+            "search_placeholder": "Enter your location",
+            "marker_style": "default"
+          }
+        }
+      },
+      "block_order": [
+        "simple_store_locator_location_map_rzzcwm"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -249,6 +270,7 @@
     "video",
     "multicolumn",
     "instant_tq_vx_vpd_v4y73gj4y_XgNEin",
-    "1740345889428011d2"
+    "1740345889428011d2",
+    "1740347869d5137081"
   ]
 }
